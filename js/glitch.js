@@ -5,10 +5,10 @@ $(document).ready(function () {
     scale: true,
     blend: true,
     blendModeType: "hue",
-    glitch1TimeMin: 600,
-    glitch1TimeMax: 900,
+    glitch1TimeMin: 300,
+    glitch1TimeMax: 600,
     glitch2TimeMin: 10,
-    glitch2TimeMax: 115,
+    glitch2TimeMax: 100,
     zIndexStart: -10,
   });
 });
